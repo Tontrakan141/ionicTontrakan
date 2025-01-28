@@ -1,0 +1,25 @@
+.ios {
+    --ion-background-color: #88c4f9;
+  }
+  
+  .md {
+    --ion-background-color: #88c4f9;
+  }
+  ion-toolbar {
+    --background: #063e91;
+    --color: #ffffff;
+     
+  }
+  ion-item {
+    --background-hover: rgb(9, 180, 123);
+    --color: #000000;
+  }
+  ion-label {
+    --color :#ffffff;
+  
+  }
+  ion-back-button {
+    color: #fff !important;
+    --color-focused: #fff;
+    --color-hover: #fff;
+  }
